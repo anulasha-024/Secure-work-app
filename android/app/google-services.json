@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817135879837",
+    "project_id": "work-e4921",
+    "storage_bucket": "work-e4921.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817135879837:android:f72b4b41964fbf50e87674",
+        "android_client_info": {
+          "package_name": "sliit.lk.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4kgT2azlSBxcIRD9YHGgpo_NUSfEyq78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
